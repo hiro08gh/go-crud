@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/go-crud/model"
-	"github.com/go-crud/router"
+	"github.com/go-psql-api/model"
+	"github.com/go-psql-api/router"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 	"log"

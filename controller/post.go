@@ -3,7 +3,7 @@ package controller
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"github.com/go-crud/model"
+	"github.com/go-psql-api/model"
 )
 
 func GetPosts(c *gin.Context) {
